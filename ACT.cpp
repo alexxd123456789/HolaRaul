@@ -18,7 +18,7 @@ struct carta{
 };
 
 int mostrarCarta(carta card, bool notColor = false);
-
+// buenas tardes
 int main(){
   // creamos la baraja y generamos la semilla de los numeros aleatorios
   struct carta baraja[52];
