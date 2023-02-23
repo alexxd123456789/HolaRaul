@@ -1,6 +1,6 @@
 /*
 =======================================================
-Nom:            Alejandro Vidal Casado
+Nom:            Alejandro Vidal Casado Pau Gallego
 =======================================================
 S'ha d'optimitzar aquest codi tot el que pugueu.
 Fer un document PDF on s'explica detalladament com estava el codi i quina millora heu fet.
